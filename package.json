@@ -1,0 +1,24 @@
+{
+  "name": "idimetrix",
+  "version": "1.0.0",
+  "description": "Expert Full-Stack software engineer, specializing in design and development of web applications using JS (React &amp; Vue &amp; Angular) and Node/PHP",
+  "author": "Dmitry Selikhov",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "vue-jest": "^4.0.0-0"
+  }
+}
